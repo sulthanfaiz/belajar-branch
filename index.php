@@ -1,1 +1,1 @@
-echo "Hello Main" > index.txt;
+echo "fitur login" > index.txt;
